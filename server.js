@@ -18,7 +18,7 @@ app.get('/ui/madi.png', function (req, res) {
 });
 
 app.get('/hello', function(req, res){
-    res.send('World!');
+    res.send('world!');
 });
 
 
